@@ -1,6 +1,6 @@
 (수정중)
 
-<div>
+<div align="center">
 	<h3>Tech stack</h3>
 </div>
 <div align="center">
