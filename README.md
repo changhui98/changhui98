@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=venom)
+
 (수정중)
 
 <div align="center">
@@ -10,6 +12,6 @@
 
 </div>
 
-<div align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changhui98&show_icons=true&theme=transparent)
-</div>
+
