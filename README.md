@@ -5,6 +5,10 @@
 <div align=center>
   <h2>:sparkles: Introduction</h2>
 
+  <h2>:sparkles: Skills</h2>
+
+  <h2>:sparkles: Study</h2>
+
   
 </div>
 
