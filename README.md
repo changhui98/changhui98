@@ -8,7 +8,7 @@
   <h2>:sparkles: Skills</h2>
 
   <h2>:sparkles: Study</h2>
-<img src="https://img.shields.io/badge/AWS-#232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-#232F3E?style=flat&logo=amazonaws&logoColor=black"/>
   
 </div>
 
