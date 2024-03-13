@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFCFDA&height=200&section=header&text=changhui's&fontSize=90" />
 
 <div align=center>
-  <p>:sparkles: Skills</p>
+  <h2>:sparkles: Introduction</h2>
 
   
 </div>
