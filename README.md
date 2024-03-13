@@ -7,7 +7,7 @@
 
   <h2>:sparkles: Skills </h2>
 
-  <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+  <p><img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat&logo=Spring&logoColor=white"/></p>
 
   <h2>:sparkles: Study </h2>
   
