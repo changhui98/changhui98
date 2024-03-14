@@ -7,6 +7,7 @@
 
   <h2>:sparkles: Skills </h2>
   <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-3776AB?style=for-the-badge&logo=Spring&logoColor=white">
 
   <h2>:sparkles: Study </h2>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
