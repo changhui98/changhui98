@@ -7,6 +7,7 @@
 
   <h2>:sparkles: Skills </h2>
   <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SRPINGBOOT-6DB33F?style=flat-square&logo=SPRING BOOT&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 
