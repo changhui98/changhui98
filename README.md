@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
   <br>
   <li>Laguage</li>
-  <img src="https://img.shields.io/badge/java-005F0F?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-FF160B?style=flat-square&logo=java&logoColor=white"/>
 
   <h2>:sparkles: Study </h2>
   
