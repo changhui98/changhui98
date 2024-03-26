@@ -15,6 +15,9 @@
   <img src="https://img.shields.io/badge/java-FF160B?style=flat-square&logo=java&logoColor=white"/>
 
   <h2>:sparkles: Study </h2>
+
+  <h2>:sparkles: SNS </h2>
+  <h2></h2>
   
 </div>
 
