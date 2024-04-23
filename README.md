@@ -16,6 +16,7 @@
   <li>Laguage</li>
   <img src="https://img.shields.io/badge/java-FF160B?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <br>
   <li>DataBase</li>
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 
