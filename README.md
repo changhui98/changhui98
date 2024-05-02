@@ -25,12 +25,14 @@
   
   <h2>:sparkles: SNS </h2>
   <h2></h2>
-  여기도 수정중
-  수정중
-  수정중
-
-
+  
   <h2>:sparkles: portfolio </h2>
+  <table>
+    <tr>
+      <th>Front-End</th>
+      <td>KaKaoTalk Clone Project </td>
+    </tr>
+  </table>
   
   
 </div>
