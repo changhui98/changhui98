@@ -31,6 +31,7 @@
     <tr>
       <th>Front-End</th>
       <td>KaKaoTalk Clone Project </td>
+      <td>https://changhui98.github.io/kokoa-clone-2024/ </td>
     </tr>
   </table>
   
