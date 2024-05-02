@@ -4,7 +4,7 @@
 
 <div align=center>
   <h2>:sparkles: Introduction</h2>
-  Web Developer Back-End 
+  Web Developer Back-End & Front-End  
 
   <h2>:sparkles: Skills </h2>
   <li>FrameWork</li>
@@ -28,6 +28,10 @@
   여기도 수정중
   수정중
   수정중
+
+
+  <h2>:sparkles: portfolio </h2>
+  
   
 </div>
 
