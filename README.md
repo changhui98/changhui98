@@ -1,9 +1,3 @@
-<style>
-  table {
-    border: none;
-  }
-</style>
-
 ( 수정중 ) 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFCFDA&height=200&section=header&text=changhui's&fontSize=90" />
@@ -33,7 +27,7 @@
   <h2></h2>
   
   <h2>:sparkles: portfolio </h2>
-  <table>
+  <table border:none>
     <tr>
       <th>Front-End</th>
       <td>KaKaoTalk Clone Project </td>
