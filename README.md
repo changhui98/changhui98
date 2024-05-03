@@ -1,3 +1,9 @@
+<style>
+  table {
+    border: none;
+  }
+</style>
+
 ( 수정중 ) 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFCFDA&height=200&section=header&text=changhui's&fontSize=90" />
