@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
   
   <h2>:sparkles: SNS </h2>
-  <h2></h2>
+  <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   
   <h2>:sparkles: portfolio </h2>
   <table border:none>
