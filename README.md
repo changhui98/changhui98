@@ -36,6 +36,14 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 
 <h3> 📂 Portfolio 📂 </h3>
+
+<table border="none">
+  <tr>
+   <th>Front-End</th>
+   <td>KaKaoTalk Clone Project</td>
+   <td>https://changhui98.github.io/kokoa-clone-2024</td>
+  </tr>
+</table>
  
 </div>
 
