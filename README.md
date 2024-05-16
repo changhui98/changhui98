@@ -37,7 +37,7 @@
 
 <h3> 📂 Portfolio 📂 </h3>
 
-<table border="none">
+<table border="1">
   <tr>
    <th>Front-End</th>
    <td>KaKaoTalk Clone Project</td>
