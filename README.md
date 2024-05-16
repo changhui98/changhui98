@@ -1,5 +1,3 @@
-( 수정중 ) 
-
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
 
@@ -42,22 +40,5 @@
 <span>https://changhui98.github.io/kokoa-clone-2024</span>
  
 </div>
-
-
-
-  
-  <h2>:sparkles: portfolio </h2>
-  <table border:none>
-    <tr>
-      <th>Front-End</th>
-      <td>KaKaoTalk Clone Project </td>
-      <td>https://changhui98.github.io/kokoa-clone-2024/ </td>
-    </tr>
-  </table>
-  
-  
-</div>
-
-
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
