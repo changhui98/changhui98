@@ -37,10 +37,9 @@
 
 <h3> 📂 Portfolio 📂 </h3>
 
-<dd>
- <dh>Front</dh>
- <dt>aaa</dt>
-</dd>
+<h5>Front-End</h5>
+<span>KaKaoTalk Clone Project</span>
+<span>https://changhui98.github.io/kokoa-clone-2024</span>
  
 </div>
 
