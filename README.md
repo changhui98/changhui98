@@ -41,6 +41,8 @@
 
 
 <h5>Back-End</h5>
+<span>Team Project</span>
+<span>https://github.com/ShinJaeMin98/SecondBooks_Project</span>
  
 </div>
 
