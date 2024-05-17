@@ -47,7 +47,9 @@
 <h5>Back-End</h5>
 <br>
 <span>Team Project</span>
-<span>https://github.com/ShinJaeMin98/SecondBooks_Project</span>
+<span>https://github.com/ShinJaeMin98/SecondBooks_Project</span><br>
+<span>Spring Boot - Board</span>
+<span>https://github.com/changhui98/SpringBoard</span>
  
 </div>
 
