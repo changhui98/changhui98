@@ -1,8 +1,9 @@
-<h3>Changhui's</h3><br>
+### Changhui's
  Hello, I'm Changhui. <br>
  My goal is to give good influence to society.<br>
  Thank you for visiting me.<br>
  Have a good day.
+
 ### Latest Blog Posts
 
 - [[Spring Boot] MSA 분산 트랜잭션 처리 방식 비교](https://huigrowthdiary.tistory.com/91)
