@@ -1,0 +1,25 @@
+{
+  "name": "changhui98",
+  "start": "node readmeUpdate.js",
+  "version": "1.0.0",
+  "description": "![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/changhui98/changhui98.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/changhui98/changhui98/issues"
+  },
+  "homepage": "https://github.com/changhui98/changhui98#readme",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
