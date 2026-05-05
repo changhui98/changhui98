@@ -18,19 +18,20 @@ const parser = new Parser({
   const feed = await parser.parseURL("https://huigrowthdiary.tistory.com/rss"); // 수정
  
   // 최신 5개의 글의 제목과 링크를 추가할 텍스트 생성
-  let latestPosts = "### Latest Blog Posts\n\n";
+  let latestPosts = "<!-- BLOG-POST-LIST:START -->\n### Latest Blog Posts\n\n";
   for (let i = 0; i < 5 && i < feed.items.length; i++) {
     const { title, link } = feed.items[i];
     latestPosts += `- [${title}](${link})\n`;
   }
- 
+  latestPosts += "\n<!-- BLOG-POST-LIST:END -->";
+
   // 기존 README.md에 최신 블로그 포스트 추가
-  const newReadmeContent = readmeContent.includes("### Latest Blog Posts")
+  const newReadmeContent = readmeContent.includes("<!-- BLOG-POST-LIST:START -->")
     ? readmeContent.replace(
-        /### Latest Blog Posts[\s\S]*?(?=\n\n## |\n$)/,
+        /<!-- BLOG-POST-LIST:START -->[\s\S]*?<!-- BLOG-POST-LIST:END -->/,
         latestPosts
       )
-    : readmeContent + latestPosts;
+    : readmeContent + "\n\n" + latestPosts;
  
   if (newReadmeContent !== readmeContent) {
     writeFileSync(readmePath, newReadmeContent, "utf8");
